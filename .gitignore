@@ -30,3 +30,9 @@ dist-ssr
 *.pem
 *.key
 /public/Netflix_Symbol_RGB.png
+
+# Local project notes
+/AGENTS.md
+/HANDOFF.md
+/PROJECT_CONTEXT.md
+/STATUS.md
