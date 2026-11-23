@@ -14,7 +14,7 @@
           </RouterLink>
 
           <p class="mt-4 max-w-sm text-sm leading-6 text-slate-400">
-            A portfolio demo for a fictional AI meeting assistant.
+            Smarter meetings. Clearer decisions. Better follow-ups.
           </p>
         </div>
 
@@ -68,6 +68,9 @@
       <div class="mt-12 border-t border-slate-800 pt-8">
         <p class="text-sm text-slate-500">
           © 2026 Flow Pilot
+        </p>
+        <p class="mt-2 text-xs leading-5 text-slate-400">
+          Flow Pilot is a fictional product concept developed as a portfolio project.
         </p>
       </div>
 

@@ -3,13 +3,6 @@
     <div class="mx-auto max-w-7xl px-6 pb-24 pt-20 lg:px-8 lg:pb-32 lg:pt-28">
       <div class="mx-auto max-w-4xl text-center">
 
-        <div
-          class="mb-6 inline-flex items-center gap-2 rounded-full border border-cyan-200 bg-cyan-50 px-3.5 py-1.5 text-sm font-medium text-cyan-700"
-        >
-          <span class="h-2 w-2 rounded-full bg-cyan-500"></span>
-          Portfolio demo
-        </div>
-
         <h1
           class="text-4xl font-bold tracking-tight text-slate-950 sm:text-6xl lg:text-7xl"
         >
@@ -20,8 +13,7 @@
         <p
           class="mx-auto mt-7 max-w-2xl text-lg leading-8 text-slate-600 sm:text-xl"
         >
-          Explore a fictional AI meeting assistant designed to turn conversations
-          into notes, decisions, and action items.
+          Turn conversations into clear notes, decisions, and actionable next steps with an AI-powered meeting assistant.
         </p>
 
         <div class="mt-9 flex flex-col items-center justify-center gap-3 sm:flex-row">
@@ -156,11 +148,9 @@
                   </span>
                 </div>
 
-                <div class="mt-5 space-y-3">
-                  <div class="h-2 w-full rounded bg-slate-800"></div>
-                  <div class="h-2 w-4/5 rounded bg-slate-800"></div>
-                  <div class="h-2 w-3/5 rounded bg-slate-800"></div>
-                </div>
+                <p class="mt-5 text-sm leading-6 text-slate-300">
+                  In the weekly product sync, the team agreed to simplify onboarding. Design will share a revised first-run flow by Friday.
+                </p>
 
                 <div class="mt-5 flex flex-wrap gap-2">
                   <span class="rounded-md bg-cyan-400/10 px-2.5 py-1 text-xs text-cyan-400">
